@@ -1,6 +1,15 @@
-span{
-    font-style: italic;
+p{
+    background-color: rgb(91, 226, 91);
+    font-size: 24px;
 }
-ol{
-list-style: lower-latin;
+
+.conteiner{
+    display: inline-block;
+    text-align:center;
+    background-color: rgb(187, 164, 164);
 }
+.main {
+    text-align: center;
+}
+
+
